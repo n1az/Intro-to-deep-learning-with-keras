@@ -1,1 +1,1 @@
-# Intro-to-deep-learning-with-keras
+# Intro-to-deep-learning-with-keras offered by IBM
